@@ -29,6 +29,28 @@ Each injector has its own card displaying:
 - Clean, readable, and well-documented code.
 - Handles errors gracefully, such as API failures.
 
+
+### Simultaneous Mode
+![Simultaneous Mode](Screenshots\Screenshot_1723911400.png)
+
+### Sequential Mode
+![Simultaneous Mode](Screenshots\Screenshot_1723914917)
+
+### Injector Cards
+![Simultaneous Mode](Screenshots\Screenshot_1723915020)
+### Sequential Mode
+![Simultaneous Mode](Screenshots\Screenshot_1723915026)
+
+### Injector Cards
+![Simultaneous Mode](Screenshots\Screenshot_1723915033)
+
+## Screen Recording
+
+![App Demo](assets/media/screen_recording.gif)
+
+*Or watch the full [video demo on YouTube](https://www.youtube.com/watch?v=your-video-id).*
+
+
 ## Getting Started
 
 ### Prerequisites
