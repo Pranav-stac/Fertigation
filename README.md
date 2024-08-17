@@ -38,7 +38,7 @@ Each injector has its own card displaying:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/fertigation-controller.git
+   git clone https://github.com/Pranav-stac/Fertigation
 
 2.Navigate to the project directory:
 
