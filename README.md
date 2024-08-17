@@ -31,7 +31,7 @@ Each injector has its own card displaying:
 
 ## Screenshots
 
-![App Demo](Screenshots/Record.gif)
+
 <div style="display: flex; overflow-x: auto; white-space: nowrap;">
 
   <div style="margin-right: 10px;">
@@ -64,9 +64,7 @@ Each injector has its own card displaying:
 
 ## Screen Recording
 
-![App Demo](assets/media/screen_recording.gif)
-
-*Or watch the full [video demo on YouTube](https://www.youtube.com/watch?v=your-video-id).*
+![App Demo](Screenshots/Record.gif)
 
 
 ## Getting Started
