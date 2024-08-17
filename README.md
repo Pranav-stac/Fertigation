@@ -29,20 +29,37 @@ Each injector has its own card displaying:
 - Clean, readable, and well-documented code.
 - Handles errors gracefully, such as API failures.
 
+## Screenshots
 
-### Simultaneous Mode
-![Simultaneous Mode](Screenshots\Screenshot_1723911400.png)
+<div style="display: flex; overflow-x: auto; white-space: nowrap;">
 
-### Sequential Mode
-![Simultaneous Mode](Screenshots\Screenshot_1723914917)
+  <div style="margin-right: 10px;">
+    <h4>Simultaneous Mode</h4>
+    <img src="Screenshots/Screenshot_1723911400.png" alt="Simultaneous Mode" style="width: 200px; height: auto;">
+  </div>
 
-### Injector Cards
-![Simultaneous Mode](Screenshots\Screenshot_1723915020)
-### Sequential Mode
-![Simultaneous Mode](Screenshots\Screenshot_1723915026)
+  <div style="margin-right: 10px;">
+    <h4>Sequential Mode</h4>
+    <img src="Screenshots/Screenshot_1723914917.png" alt="Sequential Mode" style="width: 200px; height: auto;">
+  </div>
 
-### Injector Cards
-![Simultaneous Mode](Screenshots\Screenshot_1723915033)
+  <div style="margin-right: 10px;">
+    <h4>Injector Cards</h4>
+    <img src="Screenshots/Screenshot_1723915020.png" alt="Injector Cards" style="width: 200px; height: auto;">
+  </div>
+
+  <div style="margin-right: 10px;">
+    <h4>Sequential Mode</h4>
+    <img src="Screenshots/Screenshot_1723915026.png" alt="Sequential Mode" style="width: 200px; height: auto;">
+  </div>
+
+  <div style="margin-right: 10px;">
+    <h4>Injector Cards</h4>
+    <img src="Screenshots/Screenshot_1723915033.png" alt="Injector Cards" style="width: 200px; height: auto;">
+  </div>
+
+</div>
+
 
 ## Screen Recording
 
