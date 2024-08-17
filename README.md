@@ -31,6 +31,7 @@ Each injector has its own card displaying:
 
 ## Screenshots
 
+![App Demo](Screenshots/Record.gif)
 <div style="display: flex; overflow-x: auto; white-space: nowrap;">
 
   <div style="margin-right: 10px;">
