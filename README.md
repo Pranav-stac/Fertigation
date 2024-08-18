@@ -58,13 +58,16 @@ Each injector has its own card displaying:
     <h4>Injector Cards</h4>
     <img src="Screenshots/Screenshot_1723915033.png" alt="Injector Cards" style="width: 200px; height: auto;">
   </div>
+  <video width="640" height="360" controls>
+        <source src="Screenshots/Screenshot_1723915033.mp4" type="video/mp4">
 
+    </video>
 </div>
 
 
 ## Screen Recording
 
-![App Demo](Screenshots/Record.gif)
+
 
 
 ## Getting Started
