@@ -58,15 +58,13 @@ Each injector has its own card displaying:
     <h4>Injector Cards</h4>
     <img src="Screenshots/Screenshot_1723915033.png" alt="Injector Cards" style="width: 200px; height: auto;">
   </div>
-  <video width="640" height="360" controls>
-        <source src="Screenshots/Android Emulator - Pixel_8_Pro_API_34_5554 2024-08-17 22-47-24.mp4" type="video/mp4">
 
-  </video>
 </div>
 
 
 ## Screen Recording
 
+[Watch the screen recording](./Screenshots/Android%20Emulator%20-%20Pixel_8_Pro_API_34_5554%202024-08-17%2022-47-24.mp4)
 
 
 
